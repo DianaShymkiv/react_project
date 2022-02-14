@@ -1,0 +1,11 @@
+.moviesWrapper {
+    display: flex;
+    flex: 1;
+    width: 23%;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}

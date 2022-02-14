@@ -1,0 +1,11 @@
+.genre {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.genre:hover {
+    text-decoration: underline;
+    color: #3c3c77;
+}

@@ -1,0 +1,31 @@
+.wrap {
+    border-radius: 8px;
+    border: 1px solid darkgrey;
+    display: flex;
+    background-color: #cccccc;
+}
+
+.text {
+    padding: 0 10px 10px 40px;
+    width: 500px;
+}
+.img {
+    padding: 10px;
+}
+
+.films {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    width: 16%;
+    margin-top: 10px;
+    height: 350px;
+}
+

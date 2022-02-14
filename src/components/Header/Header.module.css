@@ -1,0 +1,15 @@
+.header {
+    height: 250px;
+    background-color: #1a1a41;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #cccccc;
+    column-gap: 20px;
+}
+.header a {
+    font-size: 30px;
+    color: snow;
+    text-decoration: none;
+}
